@@ -1,0 +1,6 @@
+{
+  "name": "D Fashion Fit E-commerce",
+  "description": "A premium, modern, professional, and fully responsive e-commerce website for D Fashion Fit. Built as a headless-ready frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
